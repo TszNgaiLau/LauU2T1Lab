@@ -7,5 +7,6 @@ public class CatRunner {
         Cat cat2 = new Cat("Golf", 5,18.7);
         cat2.printCatInfo();
         cat2.introduce();
+
     }
 }
