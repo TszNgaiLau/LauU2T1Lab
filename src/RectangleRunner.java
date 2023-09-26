@@ -15,6 +15,7 @@ public class RectangleRunner {
         rect1.printPerimeter();
         rect2.printPerimeter();
         rect3.printPerimeter();
+
     }
 }
 

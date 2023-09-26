@@ -11,7 +11,6 @@ public class Rectangle {
         length = len;
         width = wid;
     }
-
     // a method (object behavior) that calculates and prints area:
     public void printArea() {
         int area = length * width;
